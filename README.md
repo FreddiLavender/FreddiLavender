@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FreddiLavender
 - 👀 I’m interested in lifting weights and analysing data
-- 🌱 I’m currently learning SQL, Python and Tableau
+- 🌱 I’m currently learning SQL, Python and PowerBI but I have used Excel and Tableau previously!
 - 💞️ I’m looking to collaborate on website projects, anything start-up related
 - 📫 How to reach me - connect with me on LinkedIn - https://www.linkedin.com/in/freddi-lavender/
 
